@@ -68,7 +68,7 @@ setTimeout(() => {
 
 // CONNECTION
 // const socketURL = 'wss://cursovaya-psp-server.onrender.com';
-const socketURL = 'ws://localhost:9000';
+const socketURL = 'https://server-for-mca.onrender.com';
 
 /*
 НУЖН ТОЛЬКО 1 ЗАПУСК ПОПЫТКИ ПОДКЛЮЧЕНИЯ connection()
